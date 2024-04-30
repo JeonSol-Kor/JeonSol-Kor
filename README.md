@@ -1,7 +1,7 @@
 ### Hi there 👋 🇰🇷
 :kr:
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={pinetree2024})](https://solved.ac/{pinetree2024})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={pinetree2024})](https://solved.ac/{pinetree2024})
