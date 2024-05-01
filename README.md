@@ -1,6 +1,4 @@
 ### Hi there 👋 🇰🇷
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=JeonSol)](https://solved.ac/pinetree2024)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024)
 
 <!--
