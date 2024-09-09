@@ -1,4 +1,4 @@
-### Hi there 👋 🇰🇷
+### Hi there 👋 I'm Sol I live in Seoul, 🇰🇷
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024/)
 
