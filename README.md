@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Sol I live in Seoul, 🇰🇷
-### I work as a middleware developer at an IT company. 
-### I'm an extroverted person who loves engaging with others and exploring new experiences. 
-### In my free time, I enjoy working out, watching YouTube, and playing computer games. 
-### I hope that gives you a good idea of who I am.
+I work as a middleware developer at an IT company. 
+I'm an extroverted person who loves engaging with others and exploring new experiences. 
+In my free time, I enjoy working out, watching YouTube, and playing computer games. 
+I hope that gives you a good idea of who I am.
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024/)
