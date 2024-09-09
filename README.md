@@ -1,5 +1,6 @@
 ### Hi there 👋 🇰🇷
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024/)
 
 <!--
 **JeonSol-Kor/JeonSol-Kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
