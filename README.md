@@ -62,7 +62,7 @@ I hope that gives you a good idea of who I am! 😊
 
 ## Contact Me
 
-- 📧 Email: [jeonsol1996@gmail.com](mailto:jeonsol1996@gmail.com)
+- 📧 Email : [jeonsol1996@gmail.com](mailto:jeonsol1996@gmail.com)
 
 
 <!--
