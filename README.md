@@ -20,7 +20,7 @@ I hope that gives you a good idea of who I am! 😊
 
 
 
-## 🛠 Skills
+## 🛠 Experienced Skills
 
 ### **Frameworks & Libraries**
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -54,6 +54,7 @@ I hope that gives you a good idea of who I am! 😊
 ![soapUI](https://img.shields.io/badge/soapUI-6DB33F?style=for-the-badge&logo=soapui&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-1E90FF?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### **Data Formats**
 ![XML](https://img.shields.io/badge/XML-9B6F6F?style=for-the-badge&logo=xml&logoColor=white)
