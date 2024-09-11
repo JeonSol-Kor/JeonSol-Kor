@@ -16,7 +16,9 @@ You can find more details on [my portfolio](https://docs.google.com/presentation
 
 I hope that gives you a good idea of who I am! 😊
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonSol-Kor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## 🛠 Skills
 
