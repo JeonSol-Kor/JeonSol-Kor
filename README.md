@@ -4,8 +4,8 @@ I live in **Seoul, 🇰🇷** and work as a middleware developer at an IT compan
 I'm an **extroverted person** who loves engaging with others and exploring new experiences.
 
 ### Recent Projects
-- [WIMF](https://github.com/2305PublicDataWebApp/WIMF): 유기견의 정보를 보다 쉽게 많은 사람들이 알 수 있도록 만든 서비스
-- [여행팔레트](https://github.com/2305PublicDataWebApp/TravelPalette): 여행객에게 질좋은 여행 정보 및 서비스 제공
+- [WIMF](https://github.com/2305PublicDataWebApp/WIMF) : 유기견의 정보를 보다 쉽게 많은 사람들이 알 수 있도록 만든 서비스
+- [여행팔레트](https://github.com/2305PublicDataWebApp/TravelPalette) : 여행객에게 질좋은 여행 정보 및 서비스 제공
 
 You can find more details on [my portfolio](https://docs.google.com/presentation/d/1oF5fgzs65jXM8eVU9dKH0qQ-9T03NLvSd9EK3ZsDXYA/edit?usp=sharing).
 
