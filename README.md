@@ -3,11 +3,15 @@
 I live in **Seoul, 🇰🇷** and work as a middleware developer at an IT company.<br>
 I'm an **extroverted person** who loves engaging with others and exploring new experiences.
 
+You can find more details on my résumé and portfolio using the following links:
+- 📄 **Résumé**: [My Resume](https://docs.google.com/document/d/1bMLI4QCNwW-ZOQh6QggzzeF01tpa8BIuLHbSebAkw6g/edit?usp=sharing)
+- 🌐 **Portfolio**: [My Portfolio](https://docs.google.com/presentation/d/1oF5fgzs65jXM8eVU9dKH0qQ-9T03NLvSd9EK3ZsDXYA/edit?usp=sharing)
+
+📧 **Email**: [jeonsol1996@gmail.com](mailto:jeonsol1996@gmail.com)
+
 ### Recent Projects
 - [WIMF](https://github.com/2305PublicDataWebApp/WIMF) : 유기견의 정보를 보다 쉽게 많은 사람들이 알 수 있도록 만든 서비스
 - [여행팔레트](https://github.com/2305PublicDataWebApp/TravelPalette) : 여행객에게 질좋은 여행 정보 및 서비스 제공
-
-You can find more details on [my portfolio](https://docs.google.com/presentation/d/1oF5fgzs65jXM8eVU9dKH0qQ-9T03NLvSd9EK3ZsDXYA/edit?usp=sharing).
 
 ### Interests
 - **Working out** 💪
@@ -17,8 +21,6 @@ You can find more details on [my portfolio](https://docs.google.com/presentation
 I hope that gives you a good idea of who I am! 😊
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonSol-Kor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## 🛠 Experienced Skills
 
@@ -62,25 +64,3 @@ I hope that gives you a good idea of who I am! 😊
 
 ### **Cloud & Others**
 ![ERD](https://img.shields.io/badge/ERD-0C4E9C?style=for-the-badge)
-
-## Contact Me
-
-- 📧 Email : [jeonsol1996@gmail.com](mailto:jeonsol1996@gmail.com)
-
-
-<!--
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- 🌐 Personal Website: [Your Website](https://yourwebsite.com)
-**JeonSol-Kor/JeonSol-Kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
