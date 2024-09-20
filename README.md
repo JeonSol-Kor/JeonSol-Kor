@@ -51,6 +51,7 @@ Feel free to check out my résumé and portfolio to learn more about my work:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-1E90FF?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![TCPMon](https://img.shields.io/badge/TCPMon-007ACC?style=for-the-badge&logo=protocol&logoColor=white)
 
 ### **Data Formats**
 ![XML](https://img.shields.io/badge/XML-9B6F6F?style=for-the-badge&logo=xml&logoColor=white)
