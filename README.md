@@ -1,6 +1,7 @@
 ## Hi there! 👋 I'm **Sol**
 
-I’m a middleware developer based in **Seoul, South Korea 🇰🇷**, passionate about engaging with new people and exploring fresh challenges. Currently, I’m working in the IT sector and continually enhancing my expertise in various technologies.
+I’m a middleware developer based in **Seoul, South Korea 🇰🇷**, passionate about engaging with new people and exploring fresh challenges.
+Currently, I’m working in the IT sector and continually enhancing my expertise in various technologies.
 
 Feel free to check out my résumé and portfolio to learn more about my work:
 - 📄 **Résumé**: [View Here](https://docs.google.com/document/d/1bMLI4QCNwW-ZOQh6QggzzeF01tpa8BIuLHbSebAkw6g/edit?usp=sharing)
