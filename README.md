@@ -1,26 +1,20 @@
 ## Hi there! 👋 I'm **Sol**
 
-I live in **Seoul, 🇰🇷** and work as a middleware developer at an IT company.<br>
-I'm an **extroverted person** who loves engaging with others and exploring new experiences.
+I’m a middleware developer based in **Seoul, South Korea 🇰🇷**, passionate about engaging with new people and exploring fresh challenges. Currently, I’m working in the IT sector and continually enhancing my expertise in various technologies.
 
-You can find more details on my résumé and portfolio using the following links:
-- 📄 **Résumé**: [My Resume](https://docs.google.com/document/d/1bMLI4QCNwW-ZOQh6QggzzeF01tpa8BIuLHbSebAkw6g/edit?usp=sharing)
-- 🌐 **Portfolio**: [My Portfolio](https://docs.google.com/presentation/d/1oF5fgzs65jXM8eVU9dKH0qQ-9T03NLvSd9EK3ZsDXYA/edit?usp=sharing)
+Feel free to check out my résumé and portfolio to learn more about my work:
+- 📄 **Résumé**: [View Here](https://docs.google.com/document/d/1bMLI4QCNwW-ZOQh6QggzzeF01tpa8BIuLHbSebAkw6g/edit?usp=sharing)
+- 🌐 **Portfolio**: [View Here](https://docs.google.com/presentation/d/1oF5fgzs65jXM8eVU9dKH0qQ-9T03NLvSd9EK3ZsDXYA/edit?usp=sharing)
 
-📧 **Email**: [jeonsol1996@gmail.com](mailto:jeonsol1996@gmail.com)
+📧 Contact me: [jeonsol1996@gmail.com](mailto:jeonsol1996@gmail.com)
 
 ### Recent Projects
-- [WIMF](https://github.com/2305PublicDataWebApp/WIMF) : 유기견의 정보를 보다 쉽게 많은 사람들이 알 수 있도록 만든 서비스
-- [여행팔레트](https://github.com/2305PublicDataWebApp/TravelPalette) : 여행객에게 질좋은 여행 정보 및 서비스 제공
-
-### Interests
-- **Working out** 💪
-- **Watching YouTube** 🎥
-- **Playing computer games** 🎮
-
-I hope that gives you a good idea of who I am! 😊
+- [**WIMF**](https://github.com/2305PublicDataWebApp/WIMF): A platform making information about stray dogs more accessible to the public.
+- [**여행팔레트**](https://github.com/2305PublicDataWebApp/TravelPalette): Provides high-quality travel information and services for travelers.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pinetree2024)](https://solved.ac/pinetree2024/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeonSol-Kor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 🛠 Experienced Skills
 
